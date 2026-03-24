@@ -1,10 +1,10 @@
 # 🚀 Missão Aurora Siger – Relatório Operacional de Pré-Decolagem
 
-**FIAP – Fase 1: Decolagem da Missão**
-**Atividade Integradora**
-**Aluno:** Paulo Roberto Faulstich Rego
-**E-mail:** paulo.faulstich@gmail.com
-**Grupo:** 58
+**FIAP – Fase 1: Decolagem da Missão**<br>
+**Atividade Integradora**<br>
+**Aluno:** Paulo Roberto Faulstich Rego<br>
+**E-mail:** paulo.faulstich@gmail.com<br>
+**Grupo:** 58<br>
 **Prazo de entrega:** 31/03/2026
 
 ---
