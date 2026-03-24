@@ -20,10 +20,10 @@ A atividade integra os conteúdos do curso de Ciência da Computação da FIAP: 
 ## 🗂️ Estrutura do Repositório
 
 ```
-aurora-siger-pre-decolagem/
-├── README.md                          # Este arquivo
-├── aurora_siger_pre_decolagem.ipynb   # Notebook Python com todo o código
-└── relatorio_aurora_siger.pdf         # Relatório completo em PDF
+missao-aurora-siger/
+├── README.md                               # Este arquivo
+├── aurora_siger_pre_decolagem.ipynb        # Notebook Python com todo o código
+└── relatorio_aurora_siger_fiap.pdf         # Relatório completo em PDF
 ```
 
 ---
@@ -63,10 +63,10 @@ Texto sobre ética em decisões algorítmicas, impacto social da exploração es
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/aurora-siger-pre-decolagem.git
+git clone https://github.com/paulo-faulstich/missao-aurora-siger.git
 
 # 2. Acesse a pasta
-cd aurora-siger-pre-decolagem
+cd missao-aurora-siger
 
 # 3. (Opcional) Crie um ambiente virtual
 python -m venv venv
