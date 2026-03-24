@@ -91,30 +91,30 @@ jupyter notebook aurora_siger_pre_decolagem.ipynb
 
 ## 📊 Dados de Telemetria Utilizados
 
-| Parâmetro | Valor | Faixa Segura | Status |
-|---|---|---|---|
-| Temperatura Interna | 22.5°C | 15°C – 28°C | ✅ NOMINAL |
-| Temperatura Externa | -45.2°C | -60°C – -10°C | ✅ NOMINAL |
-| Integridade Estrutural | 1 (OK) | 1 | ✅ NOMINAL |
-| Nível de Energia | 87.3% | ≥ 70% | ✅ NOMINAL |
-| Pressão dos Tanques | 342 kPa | 300 – 400 kPa | ✅ NOMINAL |
-| Módulo de Propulsão | 1 (Operacional) | 1 | ✅ NOMINAL |
-| Módulo de Navegação | 1 (Operacional) | 1 | ✅ NOMINAL |
-| Módulo de Comunicação | 1 (Operacional) | 1 | ✅ NOMINAL |
+| Parâmetro                | Valor           | Faixa Segura    | Status     |
+|--------------------------|-----------------|-----------------|------------|
+| Temperatura Interna      | 22.5°C          | 15°C – 28°C     | ✅ NOMINAL |
+| Temperatura Externa      | -45.2°C         | -60°C – -10°C   | ✅ NOMINAL |
+| Integridade Estrutural   | 1 (OK)          | 1               | ✅ NOMINAL |
+| Nível de Energia         | 87.3%           | ≥ 70%           | ✅ NOMINAL |
+| Pressão dos Tanques      | 342 kPa         | 300 – 400 kPa   | ✅ NOMINAL |
+| Módulo de Propulsão      | 1 (Operacional) | 1               | ✅ NOMINAL |
+| Módulo de Navegação      | 1 (Operacional) | 1               | ✅ NOMINAL |
+| Módulo de Comunicação    | 1 (Operacional) | 1               | ✅ NOMINAL |
 
 ---
 
 ## ⚡ Resultado da Análise Energética
 
-| Parâmetro | Valor |
-|---|---|
-| Capacidade total da bateria | 450 kWh |
-| Carga atual | 87,3% |
-| Energia disponível | 392,85 kWh |
-| Consumo estimado na decolagem | 85 kWh |
-| Perdas energéticas (5%) | 4,25 kWh |
-| Energia restante após decolagem | 303,60 kWh |
-| Consumo médio em missão | 12 kWh/h |
+| Parâmetro                         | Valor      |
+|-----------------------------------|------------|
+| Capacidade total da bateria       | 450 kWh    |
+| Carga atual                       | 87,3%      |
+| Energia disponível                | 392,85 kWh |
+| Consumo estimado na decolagem     | 85 kWh     |
+| Perdas energéticas (5%)           | 4,25 kWh   |
+| Energia restante após decolagem   | 303,60 kWh |
+| Consumo médio em missão           | 12 kWh/h   |
 | **Autonomia estimada** | **25,3 horas** |
 
 ---
